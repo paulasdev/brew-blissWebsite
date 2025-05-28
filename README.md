@@ -9,20 +9,18 @@ https://paulasdev.github.io/brew-blissWebsite/index.html
 ## 📁 Project Structure
 
 brew-blissWebsite/
-├── index.html
-├── about.html
-├── contact.html
-├── menu.html
-├── css/
-│ └── styles.css
-├── js/
-│ ├── scripts.js
-│ ├── menu.json
-│ └── reviews.json
-└── img/
-├── cozycoffee.jpg
-├── coffee.png
-└── …
+
+- index.html
+- about.html
+- contact.html
+- menu.html
+- css/styles.css
+- js/scripts.js
+- js/menu.json
+- js/reviews.json
+- img/cozycoffee.jpg
+- img/coffee.png
+- img/... (other images)
 
 ## 💡 Features
 
@@ -41,8 +39,7 @@ brew-blissWebsite/
 
 👩‍💻 Author
 
-Paula Carolina
-Junior Software Developer
+**Paula Hickey**
 
 ⸻
 
@@ -50,7 +47,7 @@ Junior Software Developer
 
 Here’s a preview of the Brew Bliss homepage:
 
-![Brew Bliss Homepage](img/responsive.png)
+![Brew Bliss Homepage](img/Responsive.png)
 
 ⸻
 
